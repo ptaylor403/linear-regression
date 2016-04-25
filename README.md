@@ -1,5 +1,7 @@
 # linear-regression
 
+# In the jupyter notebook:
+
 ## Ground Cricket Chirps
 ### Tasks
 1. Find the linear regression equation for this data.
@@ -17,5 +19,5 @@
 ##Salary Discrimination
 ### Tasks
 1. Find the linear regression equation for this data using columns 1-5 to column 6.
-2. Find the selection of columns with the best R2 score.
+2. Find the selection of columns with the best R^2 score.
 3. Report whether sex is a factor in salary. Support your argument with graph(s) if appropriate.
